@@ -5,7 +5,7 @@
     "serverType": "nRF52840",
     "projects": [
         {
-            "projectName": "I_udp_client",
+            "projectName": "II_udp_client",
             "compileType": "riot-zigbee",
             "boardType": "nrf52840dk",
             "burnType": "queue",
